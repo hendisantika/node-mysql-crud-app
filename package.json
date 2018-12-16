@@ -1,0 +1,26 @@
+{
+  "name": "mysql-crud-app",
+  "version": "1.0.0",
+  "description": "mysql crud app using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendisantika/node-mysql-crud-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql",
+    "express",
+    "&",
+    "crud"
+  ],
+  "author": "Hendi Santika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendisantika/node-mysql-crud-app/issues"
+  },
+  "homepage": "https://github.com/hendisantika/node-mysql-crud-app#readme"
+}
